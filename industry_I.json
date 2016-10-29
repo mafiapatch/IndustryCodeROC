@@ -1,0 +1,34 @@
+[
+	{
+		"subCategoryId":"I5510",
+		"subCategoryName":"I5510-短期住宿服務業"
+	},
+	{
+		"subCategoryId":"I5590",
+		"subCategoryName":"I5590-其他住宿服務業"
+	},
+	{
+		"subCategoryId":"I5610",
+		"subCategoryName":"I5610-餐館業"
+	},
+	{
+		"subCategoryId":"I5621",
+		"subCategoryName":"I5621-非酒精飲料店業"
+	},
+	{
+		"subCategoryId":"I5622",
+		"subCategoryName":"I5622-酒精飲料店業"
+	},
+	{
+		"subCategoryId":"I5631",
+		"subCategoryName":"I5631-餐食攤販業"
+	},
+	{
+		"subCategoryId":"I5632",
+		"subCategoryName":"I5632-調理飲料攤販業"
+	},
+	{
+		"subCategoryId":"I5690",
+		"subCategoryName":"I5690-其他餐飲業"
+	}
+]

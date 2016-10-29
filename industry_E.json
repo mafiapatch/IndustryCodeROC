@@ -1,0 +1,34 @@
+[
+	{
+		"subCategoryId":"E3600",
+		"subCategoryName":"E3600-用水供應業"
+	},
+	{
+		"subCategoryId":"E3700",
+		"subCategoryName":"E3700-廢（污）水處理業"
+	},
+	{
+		"subCategoryId":"E3811",
+		"subCategoryName":"E3811-無害廢棄物清除業"
+	},
+	{
+		"subCategoryId":"E3812",
+		"subCategoryName":"E3812-有害廢棄物清除業"
+	},
+	{
+		"subCategoryId":"E3821",
+		"subCategoryName":"E3821-無害廢棄物處理業"
+	},
+	{
+		"subCategoryId":"E3822",
+		"subCategoryName":"E3822-有害廢棄物處理業"
+	},
+	{
+		"subCategoryId":"E3830",
+		"subCategoryName":"E3830-資源回收業"
+	},
+	{
+		"subCategoryId":"E3900",
+		"subCategoryName":"E3900-污染整治業"
+	}
+]

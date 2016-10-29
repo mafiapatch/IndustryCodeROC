@@ -1,0 +1,52 @@
+[
+	{
+		"subCategoryId":"P8510",
+		"subCategoryName":"P8510-學前教育事業"
+	},
+	{
+		"subCategoryId":"P8520",
+		"subCategoryName":"P8520-小學"
+	},
+	{
+		"subCategoryId":"P8530",
+		"subCategoryName":"P8530-中學"
+	},
+	{
+		"subCategoryId":"P8540",
+		"subCategoryName":"P8540-職業學校"
+	},
+	{
+		"subCategoryId":"P8550",
+		"subCategoryName":"P8550-大專校院"
+	},
+	{
+		"subCategoryId":"P8560",
+		"subCategoryName":"P8560-特殊教育事業"
+	},
+	{
+		"subCategoryId":"P8571",
+		"subCategoryName":"P8571-外語教育服務業"
+	},
+	{
+		"subCategoryId":"P8572",
+		"subCategoryName":"P8572-藝術教育服務業"
+	},
+	{
+		"subCategoryId":"P8573",
+		"subCategoryName":"P8573-運動及休閒教育服務業"
+	},
+	{
+		"subCategoryId":"P8574",
+		"subCategoryName":"P8574-商業、資訊及專業管理教育服務業"
+	},
+	{
+		"subCategoryId":"P8579",
+		"subCategoryName":"P8579-未分類其他教育服務業"
+	},
+	{
+		"subCategoryId":"P8580",
+		"subCategoryName":"P8580-教育輔助服務業"
+	}
+]
+
+

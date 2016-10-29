@@ -1,0 +1,105 @@
+
+[
+	{
+			"subCategoryId":"M6911",
+			"subCategoryName":"M6911-律師事務服務業"
+		},  
+	{
+			"subCategoryId":"M6912",
+			"subCategoryName":"M6912-代書事務服務業"
+		},  
+	{
+			"subCategoryId":"M6919",
+			"subCategoryName":"M6919-其他法律服務業"
+		},  
+	{
+			"subCategoryId":"M6920",
+			"subCategoryName":"M6920-會計服務業"
+		},  
+	 
+	{
+			"subCategoryId":"M7010",
+			"subCategoryName":"M7010-企業總管理機構"
+		},
+	{
+			"subCategoryId":"M7020",
+			"subCategoryName":"M7020-管理顧問業"
+		},  
+	 
+	{
+			"subCategoryId":"M7111",
+			"subCategoryName":"M7111-建築服務業"
+		},  
+	{
+			"subCategoryId":"M7112",
+			"subCategoryName":"M7112-工程服務及相關技術顧問業"
+		},  
+	{
+			"subCategoryId":"M7121",
+			"subCategoryName":"M7121-環境檢測服務業"
+		},  
+	{
+			"subCategoryId":"M7129",
+			"subCategoryName":"M7129-其他技術檢測及分析服務業"
+		},  
+	 
+	{
+			"subCategoryId":"M7210",
+			"subCategoryName":"M7210-自然及工程科學研究發展服務業"
+		},  
+	{
+			"subCategoryId":"M7220",
+			"subCategoryName":"M7220-社會及人文科學研究發展服務業"
+		},  
+	{
+			"subCategoryId":"M7230",
+			"subCategoryName":"M7230-綜合研究發展服務業"
+		},
+	{
+			"subCategoryId":"M7311",
+			"subCategoryName":"M7311-一般廣告業"
+		},  
+	{
+			"subCategoryId":"M7312",
+			"subCategoryName":"M7312-戶外廣告業"
+		},  
+	{
+			"subCategoryId":"M7319",
+			"subCategoryName":"M7319-其他廣告業"
+		},  
+	{
+			"subCategoryId":"M7320",
+			"subCategoryName":"M7320-市場研究及民意調查業"
+		},  
+	 
+	{
+			"subCategoryId":"M7401",
+			"subCategoryName":"M7401-室內設計業"
+		},  
+	{
+			"subCategoryId":"M7409",
+			"subCategoryName":"M7409-其他專門設計服務業"
+		},  
+	 
+	{
+			"subCategoryId":"M7500",
+			"subCategoryName":"M7500-獸醫服務業"
+		},  
+	 
+	{
+			"subCategoryId":"M7601",
+			"subCategoryName":"M7601-攝影業"
+		},  
+	{
+			"subCategoryId":"M7602",
+			"subCategoryName":"M7602-翻譯服務業"
+		},  
+	{
+			"subCategoryId":"M7603",
+			"subCategoryName":"M7603-藝人及模特兒等經紀業"
+		},  
+	{
+			"subCategoryId":"M7609",
+			"subCategoryName":"M7609-未分類其他專業科學及技術服務業"
+		}
+]
